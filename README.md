@@ -11,7 +11,7 @@
 
 - 📫 Vous pouvez me contacter via **mathis.meunier@isen-ouest.yncrea.fr / 0783164142**
 
-- ⚡ Fun fact **J'ai pu, durant mon année au Canada, participer aux prestigieux concours d'Ubisoft avec mon groupe pour la création d'un jeu de platformer 2,5D !**
+- ⚡ Fun fact **J'ai pu, durant mon année au Canada, participer au prestigieux concours d'Ubisoft avec mon groupe pour la création d'un jeu de platformer 2,5D !**
 
 <hr> 
 
