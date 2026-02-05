@@ -1,9 +1,10 @@
-<h1 align="center">Bonjour 👋, je suis Mathis Meunier !</h1>
+<h1 align="center">Bonjour 👋, ici Mathis Meunier !</h1>
+
 <h3 align="center">Je suis passionné par l'informatique sous toutes ses formes, ainsi que les technologies et l'innovation numériques de demain. J'ai choisis de me tourner vers une formation d'ingénieur au sein de l'école ISEN Yncréa Ouest, dans laquelle j'obtiendrai ce titre reconnu par la CTI. Accessible par excellence académique et via une entente avec mon école, j'ai réalisé un parcours bi diplômant en intégrant une université de renom canadienne se nommant l'UQAC,pour une durée d'un an. Mon cursus se concentre sur le génie logiciel, la programmation orientée objet ainsi que le développement d'applications mobiles et de jeux vidéo au travers de nombreux travaux de groupes, étalés sur plusieurs mois et organisés principalement avec la méthode agile, ou en organisation Top down / Bottom Up.</h3>
 
 <hr> 
 
-- 🔭 Je travaille actuellement sur un simulateur de collision de particules et d'objets en 3D en C++ **Collision SImulator**
+- 🔭 Je travaille actuellement sur un simulateur de collision de particules et d'objets en 3D en C++ **Collision Simulator**
 
 - 🌱 J'apprends actuellement à maîtriser le langage **Java & Jetpack Compose**
 
